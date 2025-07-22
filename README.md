@@ -164,9 +164,3 @@ This project was inspired by an [Angela Yu Python challenge](https://www.udemy.c
 
 MIT License. Free to use, modify, and share.
 
-```
-
----
-
-
-```
